@@ -15,5 +15,5 @@ npm i consolidate
 npm i dustjs-helpers
 
 # VS Code Extensions (If You want)
-Dust Language Support By Mark Holtzhausen
-DustJS By AzkabanCoders
+1) Dust Language Support By Mark Holtzhausen
+2) DustJS By AzkabanCoders
