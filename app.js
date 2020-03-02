@@ -9,12 +9,11 @@ var express = require('express'),
 const { Pool, Client } = require("pg");
 
 // DB Connection String    
-//var connect = "postgres://postgres:123456@localhost/recipe_test";
     const pool = new pg.Pool({
-        user: "postgres",
+        user: "postgres_username",
         host: "localhost",
-        database: "recipe_test",
-        password: "123456",
+        database: "db_name",
+        password: "db_password",
         port: "5432"
     });
 
